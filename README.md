@@ -1,2 +1,2 @@
-# tic-tac-toe2
+# tic-tac-toe
 tic tac toe in python
